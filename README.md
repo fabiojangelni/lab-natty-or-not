@@ -1,38 +1,40 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+## Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é um vídeo curto de 15 segundos que explora a temática "Natural ou Fake Natty?" e discute como vencer na era das inteligências artificiais generativas. O vídeo destacará a diferença entre resultados naturais e aqueles impulsionados por tecnologias de IA, enfatizando a importância de autenticidade e esforços genuínos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Hey GEN 
+Eleven labs
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Conceito e Roteiro:
+
+Definir o objetivo do vídeo e a mensagem principal: discutir a autenticidade versus resultados impulsionados por IA.
+
+Criar um roteiro conciso que capte a atenção do público em 15 segundos. Exemplos de frases chave: "Natural ou Fake Natty?", "Descubra como vencer na era das IAs generativas".
+
+Design e Gráficos:
+
+Usar o Canva para criar elementos visuais que reforcem a mensagem, como infográficos sobre IA e autenticidade.
+
+Criar slides com gráficos dinâmicos e imagens impactantes.
+
+Gravação e Edição de Áudio:
+
+Elevens LABS para gravar a voz atravees de text
+
+Edição de Vídeo:
+
+Importar todos os elementos gráficos e áudios para o HEYGEN
+
+Editar o vídeo seguindo o roteiro, adicionando transições suaves e mantendo o ritmo para segurar a atenção do espectador.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+link postado
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
